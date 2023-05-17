@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Alper Eren</h1>
+<h1 align="center">Hi 👋, You are on Alper Eren's Github, Thanks for visiting. </h1>
 <h3 align="center">I am a computer engineering student looking for internship and job opportunities to further develop and learn. I learning in Python, C# and JavaScript, and have completed some projects in C, Java and SQL. I am actively involved in school communities and enjoy taking on different roles in projects. My goal is to improve myself and broaden my vision.</h3>
 
 - 🌱 I’m currently learning **JavaScript, C#, Python**
