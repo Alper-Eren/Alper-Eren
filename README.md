@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alper-eren&label=Profile%20views&color=095f95&style=flat-square" alt="alper-eren" /> </p>
 
-- 🌱 I’m currently learning **OpenCV, PyQT5, msSql**
-
 - 📫 How to reach me **alperreren01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
